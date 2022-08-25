@@ -1,0 +1,1 @@
+Programa em JAVA WEB, simulado para um central de CURSOS, onde há exibição dos seus cursos e será possivel executar um CRUD na entidade.
